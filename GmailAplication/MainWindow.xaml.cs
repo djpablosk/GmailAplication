@@ -25,11 +25,7 @@ namespace GmailAplication
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            
-            
-            
                 SendedEmails.Items.Remove(SendedEmails.SelectedItem);
-            
         }
 
        
